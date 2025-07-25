@@ -1,7 +1,7 @@
 👋 Hi there! I'm Shaik Sadiq, a passionate Data Science enthusiast with a keen interest in solving real-world problems using data. I recently completed my academic journey and I'm now focused on applying machine learning and data analysis to uncover insights and drive impactful decisions.
 
 
-🔍 I enjoy exploring data, cleaning messy datasets, finding patterns, and building predictive models using tools like *Python, Pandas, Scikit-Learn, Matplotlib, and **Seaborn*. I'm constantly learning and experimenting with new algorithms and techniques.
+🔍 I enjoy exploring data, cleaning messy datasets, finding patterns, and building predictive models using tools like **Python, Pandas, Scikit-Learn, Matplotlib**, and **Seaborn**. I'm constantly learning and experimenting with new algorithms and techniques.
 
 
 📊 My academic projects and internships have helped me gain hands-on experience in:
